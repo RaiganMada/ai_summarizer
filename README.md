@@ -1,4 +1,4 @@
-#ai_summarizer
+# ai_summarizer
 
 A small personal project I did one afternoon. Here I am also writing my first README.
 
