@@ -2,17 +2,17 @@
 
 A small personal project I did one afternoon. Here I am also writing my first README.
 
-##Overview
+## Overview
 
 This project utilizes an API powered by GPT-4 to generate summaries of articles based on user-provided links. It not only creates summaries on demand but also maintains a session history of all generated articles. Users can conveniently review this history and copy saved links to their clipboard. The session history is stored locally, ensuring easy access and management.
 
-##Installation
+## Installation
 
-###Prerequisites
+### Prerequisites
 
 List any prerequisites that are needed to run the project, such as programming languages, frameworks, or tools.
 
-###Getting Started
+### Getting Started
 
 1. Clone the repository:
 
@@ -40,7 +40,7 @@ Replace API_KEY= with your actual API key.
 
 Note: Ensure .env file is added to .gitignore to prevent it from being tracked by version control.
 
-##Obtaining API Key
+## Obtaining API Key
 
 To obtain the API key required for the .env file:
 
@@ -53,7 +53,7 @@ To obtain the API key required for the .env file:
     - Choose "Node.js" as the target language and "Axios" as the client.
     - Locate the API key within the options constant under the 'x-rapidapi-key' parameter.
 
-###Usage
+### Usage
 
 To start the project, run the following command:
 
@@ -61,6 +61,6 @@ To start the project, run the following command:
 npm run dev
 ```
 
-###License
+### License
 
 Specify the license under which your project is distributed.
