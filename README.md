@@ -1,6 +1,8 @@
 # ai_summarizer
 
-A small personal project I did one afternoon. Here I am also writing my first README.
+A small personal project I did one afternoon. Here I am also writing my first README. I learned how to do this from this video: 
+
+https://www.youtube.com/watch?v=vpvtZZi5ZWk
 
 ## Overview
 
