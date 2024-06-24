@@ -6,11 +6,16 @@ A small personal project I did one afternoon. Here I am also writing my first RE
 
 This project utilizes an API powered by GPT-4 to generate summaries of articles based on user-provided links. It not only creates summaries on demand but also maintains a session history of all generated articles. Users can conveniently review this history and copy saved links to their clipboard. The session history is stored locally, ensuring easy access and management.
 
-## Installation
+## Quick Start
 
 ### Prerequisites
 
-List any prerequisites that are needed to run the project, such as programming languages, frameworks, or tools.
+Make sure you have the following installed on your machine:
+
+- Git
+- Node.js
+- npm (Node Package Manager)
+
 
 ### Getting Started
 
@@ -33,7 +38,7 @@ npm install -D tailwindcss postcss autoprefixer
 Create a .env file in the root directory of your project. Add the following variables to it:
 
 ```Properties
-API_KEY=
+VITE_RAPID_API_ARTICLE_KEY=
 ```
 
 Replace API_KEY= with your actual API key.
@@ -61,6 +66,4 @@ To start the project, run the following command:
 npm run dev
 ```
 
-### License
-
-Specify the license under which your project is distributed.
+Open http://localhost:5173 in your browser to view the project.
