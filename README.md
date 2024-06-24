@@ -44,14 +44,14 @@ Note: Ensure .env file is added to .gitignore to prevent it from being tracked b
 
 To obtain the API key required for the .env file:
 
-    - Create an account on RapidAPI's website.
-    - Navigate to the specific API endpoint at: Article Extractor and Summarizer.
-    - Choose the Free Subscription option for testing purposes.
-    - Click the "Playground" button and select the /summarize endpoint from the left sidebar.
-    - Test the endpoint to confirm its functionality.
-    - Upon success, navigate to the "Code Snippets" tab on the right sidebar.
-    - Choose "Node.js" as the target language and "Axios" as the client.
-    - Locate the API key within the options constant under the 'x-rapidapi-key' parameter.
+- Create an account on RapidAPI's website.
+- Navigate to the specific API endpoint at: Article Extractor and Summarizer.
+- Choose the Free Subscription option for testing purposes.
+- Click the "Playground" button and select the /summarize endpoint from the left sidebar.
+- Test the endpoint to confirm its functionality.
+- Upon success, navigate to the "Code Snippets" tab on the right sidebar.
+- Choose "Node.js" as the target language and "Axios" as the client.
+- Locate the API key within the options constant under the 'x-rapidapi-key' parameter.
 
 ### Usage
 
